@@ -1,22 +1,6 @@
 
-(base) C:\Users\Fresh>pip freeze requirement.txt
-aiohttp @ file:///C:/ci/aiohttp_1646806572557/work
-aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
-alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
-altair==4.2.2
-anaconda-client @ file:///C:/ci/anaconda-client_1635342725944/work
-anaconda-navigator==2.1.4
-anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1637161053845/work
-anyio @ file:///C:/ci/anyio_1644481921011/work/dist
-apeye==1.3.0
-apeye-core==1.1.1
-appdirs==1.4.4
-argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
-argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644551690056/work
-arrow @ file:///opt/conda/conda-bld/arrow_1649166651673/work
-asgiref==3.6.0
-astroid @ file:///C:/ci/astroid_1628063282661/work
-astropy @ file:///C:/ci/astropy_1650634291321/work
+
+
 asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 async-timeout @ file:///tmp/build/80754af9/async-timeout_1637851218186/work
 atomicwrites==1.4.0
