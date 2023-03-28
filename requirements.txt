@@ -1,5 +1,7 @@
 numpy==1.21.5
 pickles==0.1.1
 streamlit==1.19.0
-sklearn==0.0.post1
+scikit-learn @ file:///C:/ci/scikit-learn_1642617276183/work
+scikit-learn-intelex==2021.20220215.102710
+
 
